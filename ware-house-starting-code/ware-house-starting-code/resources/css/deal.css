@@ -1,0 +1,15 @@
+.description h3:hover{
+  font-weight: bold;
+}
+
+.price{
+  cursor:default;
+}
+
+.image-container .item-image{
+  cursor:default;
+}
+
+.image-container {
+  cursor: default;
+}
